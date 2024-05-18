@@ -16,12 +16,4 @@ MonoBehaviour:
   - key: Bullet
     ItemPooling:
       listPooling:
-      - {fileID: 8658431046719254994, guid: 0d0aba0628614804ebe0787dff240175, type: 3}
-  - key: Wall
-    ItemPooling:
-      listPooling:
-      - {fileID: 4271484676724179461, guid: 4c990255048b0744db78ca51c312eb05, type: 3}
-  - key: Block
-    ItemPooling:
-      listPooling:
-      - {fileID: 512265771660717392, guid: ab24a5d827a9932459f1dff527a74ce4, type: 3}
+      - {fileID: 8930556916500349276, guid: c5b2f9ef6539811438dd74dc23da9b30, type: 3}
