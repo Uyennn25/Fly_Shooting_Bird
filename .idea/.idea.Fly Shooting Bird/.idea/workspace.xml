@@ -11,6 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_FlappyBird/Scripts/Block.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_FlappyBird/Scripts/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -95,6 +96,8 @@
       <workItem from="1714887760839" duration="3565000" />
       <workItem from="1715878568952" duration="597000" />
       <workItem from="1716004243503" duration="7951000" />
+      <workItem from="1716053962331" duration="6988000" />
+      <workItem from="1716083896947" duration="1164000" />
     </task>
     <servers />
   </component>
