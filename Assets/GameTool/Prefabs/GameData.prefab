@@ -44,18 +44,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Data:
-    highestScore: 0
-    SelectedID: 0
     MuteAll: 0
     PushAlarm: 1
     SoundFX: 1
     MusicFX: 1
     Vibration: 1
-  sprManager: {fileID: 11400000, guid: 1ebc4dfdf3d579941885f0715e835770, type: 2}
-  bulletsTableObject: {fileID: 11400000, guid: c7fd18581cd6b864583c87b3ba43c5e0, type: 2}
-  score: 0
-  birdList:
-  - {fileID: 6384780948251822532, guid: f8ea4f24774bab5419a80e4efceb71fd, type: 3}
-  - {fileID: 4477784482387283663, guid: da72cac644cb2f54c9f25e619793512c, type: 3}
-  - {fileID: 4056684653881785302, guid: 4836b055e58b35f4e8df8f51ecccb2b1, type: 3}
-  - {fileID: 3286611510623141761, guid: df0fdc0387165a2409b57214d6bbee41, type: 3}
+  blockData: {fileID: 11400000, guid: af53fc2cc0d563b4b8ed37bc32e0a4f7, type: 2}

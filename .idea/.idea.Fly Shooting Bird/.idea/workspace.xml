@@ -13,6 +13,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/_FlappyBird/Scripts/Block.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_FlappyBird/Scripts/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_FlappyBird/Scripts/Data/BlockData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -98,6 +99,7 @@
       <workItem from="1716004243503" duration="7951000" />
       <workItem from="1716053962331" duration="6988000" />
       <workItem from="1716083896947" duration="1164000" />
+      <workItem from="1716085847605" duration="4286000" />
     </task>
     <servers />
   </component>
