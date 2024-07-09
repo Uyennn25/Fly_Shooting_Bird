@@ -100,6 +100,8 @@ MonoBehaviour:
   poolNameString: Bullet
   index: 0
   rb: {fileID: -3603837893496471161}
+  sr: {fileID: 3370407063782636975}
+  damage: 1
 --- !u!50 &-3603837893496471161
 Rigidbody2D:
   serializedVersion: 4

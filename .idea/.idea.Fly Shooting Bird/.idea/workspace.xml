@@ -4,16 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4064d0a6-46f2-45ee-8416-07f0628564cb" name="Changes" comment="" />
+    <list default="true" id="4064d0a6-46f2-45ee-8416-07f0628564cb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fly Shooting Bird/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fly Shooting Bird/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameTool/Prefabs/GameData.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameTool/Prefabs/GameData.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameTool/Scripts/Data/GameData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameTool/Scripts/Data/GameData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameTool/Scripts/Data/GameDataControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameTool/Scripts/Data/GameDataControl.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameTool/Scripts/Data/eData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameTool/Scripts/Data/eData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Frefabs/Bullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Frefabs/Bullet.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Scripts/Block.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Scripts/Block.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Scripts/Bullet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Scripts/Bullet.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Scripts/Wall.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Scripts/Wall.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Background/Button Background/button_blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Background/Button Background/button_blue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Background/Button Background/button_green.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Background/Button Background/button_green.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Blue Lazer/Blue Level 1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_FlappyBird/Sources/Images/Bullets/Blue Lazer/Blue Level 1.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/_FlappyBird/Scripts/Block.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_FlappyBird/Scripts/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_FlappyBird/Scripts/Data/BlockData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_FlappyBird/Scripts/Data/BulletData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_FlappyBird/Scripts/GameMenu.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -27,6 +46,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -100,6 +120,14 @@
       <workItem from="1716053962331" duration="6988000" />
       <workItem from="1716083896947" duration="1164000" />
       <workItem from="1716085847605" duration="4286000" />
+      <workItem from="1717296556706" duration="1249000" />
+      <workItem from="1717779105868" duration="180000" />
+      <workItem from="1717824021238" duration="5494000" />
+      <workItem from="1718027394626" duration="3136000" />
+      <workItem from="1718188463035" duration="899000" />
+      <workItem from="1718624239497" duration="6457000" />
+      <workItem from="1720420986492" duration="601000" />
+      <workItem from="1720432916952" duration="1167000" />
     </task>
     <servers />
   </component>

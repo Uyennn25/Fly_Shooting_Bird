@@ -36,6 +36,8 @@ public class Wall : BasePooling
             BlockType blockType = (BlockType)Random.Range(0, 3);
             var block = (Block)PoolingManager.Instance.GetObject(NamePrefabPool.Block, transform,
                 new Vector2(transform.position.x,posy[i]));
+            
+            block.Disable(9.5f);
             block.blockType = blockType;
             block.setData();
             block.sr.size = new Vector2(block.sr.size.x, height[i]);
